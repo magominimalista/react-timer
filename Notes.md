@@ -15,3 +15,10 @@ npx eslint src --ext .ts, .tsx --fix
 
 ## Biblioteca para rotas
 npm i react-router-dom
+
+## Biblioteca para formulário
+npm i react-hook-form
+npm i @hookform/resolvers
+
+## Biblioteca para validação
+npm i zod
